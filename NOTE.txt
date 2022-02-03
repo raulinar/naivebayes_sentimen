@@ -1,0 +1,4 @@
+1. buka localhost/phpmyadmin
+2. bikin database namanya "sentimen"
+3. import file sql yg di dalem rar
+4. copy paste isi rar ke folder htdocs (sama folder sentimennya)
